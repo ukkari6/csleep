@@ -3,6 +3,14 @@ csleep = Count Down Sleep Command
 
 週末プロジェクト：UNIXのコマンドのsleepにカウントダウン機能を追加したような小さいプログラムを作る  
   
+
+インストール方法：  
+make  
+make insatll  
+  
+不要になった場合：  
+make uninstall  
+  
   
 使用方法：csleep NUMBER[SUFFIX]  
 もしくは：csleep OPTION  
